@@ -1,0 +1,15 @@
+baseURL = "https://boyun.github.io/"
+languageCode = "en-us"
+title = "BoYun"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = {Title = "Hi 👋", Content = "Welcome to BoYun"}
+  ShowReadingTime = true
+  ShowShareButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "Archive"
+    url = "/archives/"
+    weight = 5
